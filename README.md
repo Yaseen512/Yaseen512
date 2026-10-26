@@ -24,12 +24,12 @@ Explore my personal projects, homelab infrastructure, and technical documentatio
 
 Projects include:
 
-- **Titan Homelab** — Self-hosted services and infrastructure management.
-- **Watchdog** — Monitoring and service availability for a dedicated monitoring node.
-- **AI & Models** — Local language models, Ollama, API inference, and the Atlas assistant.
-- **Flight Deck** — A self-hosted personal aviation tracking application.
-- **openGym** — A self-hosted workout and bodyweight tracking application.
-- **Firewall & Zero Trust** — Cloudflare Tunnel and homelab connectivity.
+- **Titan Homelab** - Self-hosted services and infrastructure management.
+- **Watchdog** - Monitoring and service availability for a dedicated monitoring node.
+- **AI & Models** - Local language models, Ollama, API inference, and the Atlas assistant.
+- **Flight Deck** - A self-hosted personal aviation tracking application.
+- **openGym** - A self-hosted workout and bodyweight tracking application.
+- **Firewall & Zero Trust** - Cloudflare Tunnel and homelab connectivity.
 
 ## 🎓 Certifications & Education
 
