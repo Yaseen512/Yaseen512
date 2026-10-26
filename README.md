@@ -20,12 +20,12 @@ I enjoy building systems, troubleshooting technical issues and automating repeti
 
 Explore my [Technical Projects Portfolio](https://github.com/Yaseen512/projects).
 
-- **Titan Homelab** — Linux, Docker, monitoring and self-hosted services.
-- **Flight Deck** — A personal flight-tracking application using Python, SQLite and Docker.
-- **openGym** — A self-hosted fitness tracker deployed with Docker Compose.
-- **Linux Infrastructure & OpenShift** — Infrastructure provisioning and cloud-native administration.
-- **Power Platform & Integrations** — Workflow automation, application development and API integrations.
-- **AI & Models** — Local AI model deployment and experimentation.
+- **Titan Homelab** - Linux, Docker, monitoring and self-hosted services.
+- **Flight Deck** - A personal flight-tracking application using Python, SQLite and Docker.
+- **openGym** - A self-hosted fitness tracker deployed with Docker Compose.
+- **Linux Infrastructure & OpenShift** - Infrastructure provisioning and cloud-native administration.
+- **Power Platform & Integrations** - Workflow automation, application development and API integrations.
+- **AI & Models** - Local AI model deployment and experimentation.
 
 ## 🎓 Certifications & Development
 
