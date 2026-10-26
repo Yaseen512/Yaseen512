@@ -1,41 +1,53 @@
-# Hi, I'm Yaseen 👋
+# Hey, I'm Yaseen 👋
 
-### Linux | OpenShift | Infrastructure | Automation | AI
+### Junior Linux & OpenShift Engineer | DevOps | Automation | AI
 
-I'm a Linux and OpenShift engineer based in South Africa, interested in infrastructure engineering, DevOps, automation and practical AI applications.
+I'm a South African IT professional focused on Linux administration, containerised infrastructure, automation, and practical AI applications. I enjoy building, deploying, troubleshooting, and documenting systems through hands-on work and personal lab projects.
 
-I enjoy building systems, troubleshooting technical issues and automating repetitive tasks. This profile showcases my technical projects, hands-on experiments and professional development.
+I'm continuously developing my skills in Linux, Red Hat OpenShift, DevOps practices, cloud technologies, and AI-assisted development.
 
-## 🛠️ Technical Skills & Interests
+## 🛠️ Technical Skills
 
-- **Linux & Infrastructure:** Server provisioning, operating system installation, administration and troubleshooting
-- **Containers:** Docker, Docker Compose and self-hosted applications
-- **OpenShift & Kubernetes:** Cluster administration, workloads, namespaces and troubleshooting
-- **Automation:** Microsoft Power Automate, Power Apps and workflow integrations
-- **APIs & Integration:** REST APIs, webhooks, SharePoint and service integrations
-- **AI & Machine Learning:** Azure AI, Microsoft Copilot and local AI model experimentation
-- **Monitoring & Networking:** Service health checks, infrastructure monitoring and remote access
+- **Linux & Infrastructure:** Linux administration, server setup, troubleshooting, ISO mounting
+- **Containers & Self-Hosting:** Docker, Docker Compose, service deployment and monitoring
+- **OpenShift & Kubernetes:** Cluster administration concepts and practical lab experience
+- **Monitoring:** Glances, Uptime Kuma, Home Assistant
+- **Networking & Remote Access:** Tailscale, Cloudflare Tunnel, Zero Trust concepts
+- **Automation & Development:** Power Automate, Power Apps, REST APIs
+- **AI & Machine Learning:** Ollama, local LLMs, Microsoft Copilot, Azure AI
 
 ## 🚀 Featured Projects
 
-Explore my [Technical Projects Portfolio](https://github.com/Yaseen512/projects).
+Explore my personal projects, homelab infrastructure, and technical documentation:
 
-- **Titan Homelab** - Linux, Docker, monitoring and self-hosted services.
-- **Flight Deck** - A personal flight-tracking application using Python, SQLite and Docker.
-- **openGym** - A self-hosted fitness tracker deployed with Docker Compose.
-- **Linux Infrastructure & OpenShift** - Infrastructure provisioning and cloud-native administration.
-- **Power Platform & Integrations** - Workflow automation, application development and API integrations.
-- **AI & Models** - Local AI model deployment and experimentation.
+**[View My Projects & Technical Evidence](https://github.com/Yaseen512/projects)**
 
-## 🎓 Certifications & Development
+Projects include:
 
-- Continued development in Linux, OpenShift and DevOps technologies
-- Microsoft Azure AI Engineer Associate
-- NQF Level 5 in Software Development
+- **Titan Homelab** — Self-hosted services and infrastructure management.
+- **Watchdog** — Monitoring and service availability for a dedicated monitoring node.
+- **AI & Models** — Local language models, Ollama, API inference, and the Atlas assistant.
+- **Flight Deck** — A self-hosted personal aviation tracking application.
+- **openGym** — A self-hosted workout and bodyweight tracking application.
+- **Firewall & Zero Trust** — Cloudflare Tunnel and homelab connectivity.
 
-## 📫 Connect With Me
+## 🎓 Certifications & Education
+
+- Azure AI Engineer Associate certification
+- NQF Level 5 qualification in Software Development
+
+## 📌 Currently Focused On
+
+- Developing Linux and Red Hat OpenShift administration skills, obtaining Redhat Certified Systems Administrator Certificate.
+- Building practical DevOps and infrastructure projects.
+- Improving automation and API integration skills.
+- Expanding my self-hosted homelab and local AI experiments.
+
+## 🤝 Connect
 
 - **GitHub:** [@Yaseen512](https://github.com/Yaseen512)
-- **LinkedIn:** www.linkedin.com/in/yaseen-musthapha-087992208
+- **Portfolio:** [yaseenslab.uk](https://yaseenslab.uk)
 
-I'm always interested in learning new technologies, building useful projects and growing as an infrastructure and DevOps engineer.
+---
+
+*Building practical skills through hands-on engineering, continuous learning, and real projects.*
